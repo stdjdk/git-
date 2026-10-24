@@ -2,7 +2,7 @@
 
 int main()
 {
-	printf("hallow,git");
+	printf("hallow,git!!");
 	return 0;
 
 }
